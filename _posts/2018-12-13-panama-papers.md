@@ -2,7 +2,7 @@
 layout: post
 title:  "PANAMA PAPERS"
 subtitle: "An exploration"
-background: '/img/posts/06.jpg'
+background: '/img/posts/07.jpg'
 ---
 <style>
   .df_jc{
