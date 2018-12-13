@@ -2,7 +2,7 @@ title:             Clean Blog
 email:             adaepflakbar@gmail.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           ""
+baseurl:           "/"
 url:               "http://ada-akbar.github.io"
 
 # Social Profiles
