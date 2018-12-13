@@ -35,7 +35,7 @@ It is important to dive deeper into the massive corpus of leaked documents [prov
 ## A world map overview
 
 Companies from a home *country* set up entities in various *jurisdictions* (offshore areas). Thus, we first investigate which *jurisdictions* hold the most entities and which home *countries* set up the most entities offshore.
-<iframe src="/proj_jekyll/assets/jurisdictions_map.html"
+<iframe src="/assets/jurisdictions_map.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="440"
@@ -43,7 +43,7 @@ Companies from a home *country* set up entities in various *jurisdictions* (offs
     seamless="seamless"
     frameborder="0">
 </iframe>
-<iframe src="/proj_jekyll/assets/country_map.html"
+<iframe src="/assets/country_map.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="440"
@@ -58,7 +58,7 @@ We observe that many of these jurisdictions are located in *tax havens*, or a co
 
 **TO DO**
 
-<iframe src="/proj_jekyll/assets/developpingcountries.html"
+<iframe src="/assets/developpingcountries.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="650"
@@ -77,7 +77,7 @@ As determined from above, entities are driven to go offshore **potentially** bec
 
 To do so, we obtained a [dataset from OECD](https://data.oecd.org/tax/tax-on-corporate-profits.htm) indicating the corporate tax rate % of GDP as well as a [dataset from NAICS](https://www.naics.com/business-lists/counts-by-country/) indicating the number of businesses per country. We can then calculate:
 
-![](/proj_jekyll/img/tax_eq.png)
+![](/img/tax_eq.png)
 
 
 <!-- $$
@@ -86,7 +86,7 @@ $$ -->
 
 Below is a graph for the top 15 countries in terms of potential corporate tax revenue loss in USD:
 
-<iframe src="/proj_jekyll/assets/tax_loss.html"
+<iframe src="/assets/tax_loss.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="550"
