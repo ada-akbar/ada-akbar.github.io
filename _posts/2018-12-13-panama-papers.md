@@ -61,7 +61,7 @@ It seems clear that corporate tax level is a strong determinant for entities to 
 
 ## What drives entities to go offshore?
 
-It is probable that entities from all over the world are firstly influenced to go set their businesses already in countries which offer particularly good business conditions such as Switzlerand, Panama, the Channel Islands (Jersey and Guernsey), Luxemburg, the Cayman Islands, Lichteinstein, Singapore and Monaco, Isle of Man and Gibraltar. These countries are known for being small and very developped with high income per capita, but also to often be tax havens.
+It is probable that entities from all over the world are firstly influenced to go set their businesses already in countries which offer particularly good business conditions such as Switzlerand, Panama, the Channel Islands (Jersey and Guernsey), Luxemburg, the Cayman Islands, Lichteinstein, Singapore and Monaco, Isle of Man and Gibraltar. These countries are known for being small and very developed with high income per capita, but also to often be tax havens.
 
 
 Hence, on the one hand it is crucial to understand what are these business conditions (economic and bureaucratic) that make this set of countries the optimum place to do business, but also to easily go offshore and on the other hand what are the economic and bureaucratic causes which influence entities in the other countries to go offshore.
@@ -81,9 +81,9 @@ In addition the graph also seems to suggest that the reasons behind the presence
     frameborder="0">
 </iframe>
 
-Now that we have understood what is the relationship between corporate tax rate and presence in Panama Papers for small developed countries, the graph of tax rate and presence in Panama Paper of developping countries is plotted.
+Now that we have understood what is the relationship between corporate tax rate and presence in Panama Papers for small developed countries, the graph of tax rate and presence in Panama Paper of developing countries is plotted.
 
-By observing this graphs a negative exponential relationship can be again observed further showing that for this category of countries tax rate is not a factor pushing entities to go offshore: actually the higher the tax rate the lower the number of companies offshore. Contrary to the little evidence found in small developped countries, developping countries show a very clear negative exponential relationship with a two tails p-value of 0.00143. This could be a further proof to the hypothesis that higher tax rates are correlates with higher regulations as shown in the graph for small developped countries; in fact in developping countries the bureaucratic machine and regulation could even disable further entities who are willing to go offshore.
+By observing this graphs a negative exponential relationship can be again observed further showing that for this category of countries tax rate is not a factor pushing entities to go offshore: actually the higher the tax rate the lower the number of companies offshore. Contrary to the little evidence found in small developed countries, developing countries show a very clear negative exponential relationship with a two tails p-value of 0.00143. This could be a further proof to the hypothesis that higher tax rates are correlated with higher regulations as shown in the graph for small developed countries; in fact in developing countries the bureaucratic machine and regulation could even disable further entities who are willing to go offshore.
 
 <iframe src="/assets/developingcountries.html"
     sandbox="allow-same-origin allow-scripts"
