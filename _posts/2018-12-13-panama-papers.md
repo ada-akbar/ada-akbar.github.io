@@ -101,7 +101,7 @@ The figure below shows a completely different picture, compared to the previous 
 <iframe src="/assets/taxrateg7.html"
     sandbox="allow-same-origin allow-scripts"
     width="900%"
-    height="700"
+    height="900"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
