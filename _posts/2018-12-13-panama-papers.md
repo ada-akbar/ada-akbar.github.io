@@ -72,7 +72,14 @@ By observing the plot below some important considerations can be drawn; two set 
 In addition the graph also seems to suggest that the reasons behind the presence of many companies offshore in tax havens is not only the low taxation levels: in fact corporate tax rate of tax havens countries is often comparable to that one of other small european countries. As a matter of fact tax havens countries offer entities favorable conditions to easily set companies offshore compared to other small countries.
 
 
-PLACE FIG
+<iframe src="/assets/taxratesmalldevelopedcountries.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="650"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 Now that we have understood what is the relationship between corporate tax rate and presence in Panama Papers for small developed countries, the graph of tax rate and presence in Panama Paper of developping countries is plotted. 
 
@@ -87,11 +94,29 @@ By observing this graphs a negative exponential relationship can be again observ
     frameborder="0">
 </iframe>
 
-Finally the relationship between the 7 biggest economies and tax rate has been investigated. The economies almost correspond to the G7 countries, but China has taken the place of Canada. 
+Then the relationship between the 7 biggest economies and tax rate has been investigated. The economies almost correspond to the G7 countries, but China has taken the place of Canada. 
 
 The figure below shows a completely different picture, compared to the previous ones: taking out Japan, it seems to be a positive exponential relationship between tax rate and number of offshore entities for the economically strongest countries suggesting that in these countries (p-value=0.531), entities are escaping corporate taxation levels by putting their companies offshore. Japan represents an exception among the 7 biggest economies: even though it has a very high tax rate, the presence of Japanese entities in the documents is really low. This could be due to cultural reasons or might be due to the fact that Japanese entities use different means to go offshore and they are not very represented in the Panama Papers themselves.
 
-PLACE FIG
+<iframe src="/assets/taxrateg7.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="650"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+Eventually after having analyzed the above set of countries, the global picture for developed countries has been drawn. Observing the figure, on a global scale it can be seen that there is no significant correlation between corporate tax rate and presence of offshore entities in the Panama Papers. However it is clear the a positive relationship between tax rate and number of offshore entities holds true for the major economies which are the biggest data points.
+
+<iframe src="/assets/taxrate_developed.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="650"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 In conclusion it is clear that corporate tax is definitely a factor influencing entities to go offshore, but in different ways according to the set of countries considered. It seems that entities in the major economies are trying to escape high corporate taxation levels. While it seems that lower taxation levels in developing countries implies a higher number of companies set offshore. However it is hard to make inference statements since the correlations are often not strong enough and correlation doesn't imply causation.
  
@@ -127,4 +152,11 @@ As seen from the graph, aside from Switzerland, many of the countries are not lo
  
 The exploration above has provided numerous insights not only on the causes influencing entities to go offshore, but also on the consequences that such practises have on the home countries and could have on world income inequality in the long run, as the unknown leaker as mentioned. Some of the causes behind going offshore can be explained with data; in fact further researches are needed to obtain a greater quantity of data and use them to explore which are determinants of the number of offshore companies. In addition the phenomenon is also a sociological one and the story of each entity should be treated separately. All in all a stakeholder analysis should be performed to understand which are the individuals that, hidden behind the privacy curtains of the offshore jurisdictions, evade taxation disabling a proper redistribution of wealth. 
 
-PLACE FIG
+<iframe src="/img/cartoon.jpg"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="650"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
