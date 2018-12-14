@@ -75,7 +75,7 @@ In addition the graph also seems to suggest that the reasons behind the presence
 <iframe src="/assets/taxratesmalldevelopedcountries.html"
     sandbox="allow-same-origin allow-scripts"
     width="120%"
-    height="700"
+    height="900"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -88,7 +88,7 @@ By observing this graphs a negative exponential relationship can be again observ
 <iframe src="/assets/developingcountries.html"
     sandbox="allow-same-origin allow-scripts"
     width="120%"
-    height="700"
+    height="900"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -100,7 +100,7 @@ The figure below shows a completely different picture, compared to the previous 
 
 <iframe src="/assets/taxrateg7.html"
     sandbox="allow-same-origin allow-scripts"
-    width="120%"
+    width="900%"
     height="700"
     scrolling="no"
     seamless="seamless"
@@ -112,7 +112,7 @@ Eventually after having analyzed the above set of countries, the global picture 
 <iframe src="/assets/taxrate_developed.html"
     sandbox="allow-same-origin allow-scripts"
     width="120%"
-    height="700"
+    height="900"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
