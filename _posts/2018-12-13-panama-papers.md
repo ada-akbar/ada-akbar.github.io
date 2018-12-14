@@ -74,7 +74,7 @@ In addition the graph also seems to suggest that the reasons behind the presence
 
 <iframe src="/assets/taxratesmalldevelopedcountries.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="120%"
     height="650"
     scrolling="no"
     seamless="seamless"
@@ -85,9 +85,9 @@ Now that we have understood what is the relationship between corporate tax rate 
 
 By observing this graphs a negative exponential relationship can be again observed further showing that for this category of countries tax rate is not a factor pushing entities to go offshore: actually the higher the tax rate the lower the number of companies offshore. Contrary to the little evidence found in small developped countries, developping countries show a very clear negative exponential relationship with a two tails p-value of 0.00143. This could be a further proof to the hypothesis that higher tax rates are correlates with higher regulations as shown in the graph for small developped countries; in fact in developping countries the bureaucratic machine and regulation could even disable further entities who are willing to go offshore.
 
-<iframe src="/assets/developpingcountries.html"
+<iframe src="/assets/developingcountries.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="120%"
     height="650"
     scrolling="no"
     seamless="seamless"
@@ -100,7 +100,7 @@ The figure below shows a completely different picture, compared to the previous 
 
 <iframe src="/assets/taxrateg7.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="120%"
     height="650"
     scrolling="no"
     seamless="seamless"
@@ -111,7 +111,7 @@ Eventually after having analyzed the above set of countries, the global picture 
 
 <iframe src="/assets/taxrate_developed.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="120%"
     height="650"
     scrolling="no"
     seamless="seamless"
