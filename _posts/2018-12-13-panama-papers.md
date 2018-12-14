@@ -122,7 +122,7 @@ In conclusion it is clear that corporate tax is definitely a factor influencing 
  
  Hence corporate tax rate is not the only determinant for entities to go offshore: in fact it was also concluded that corporate tax rate could actually be a proxy variable for other covariates. For instance it is clear that tax havens present ideal conditions for entities to set up offshore companies: additional research should be performed in finding what are theses bureaucratic and economical factors, but the lack of transparency of these countries makes it extremely to find useful data. 
 
-## What consequences do corporations starting offshore entities have on their home country?
+## What consequences do companies offshore have on their home country?
 
 
 ### Corporate tax revenue
