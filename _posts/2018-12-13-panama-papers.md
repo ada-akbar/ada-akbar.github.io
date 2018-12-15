@@ -53,23 +53,23 @@ Companies from a home *country* set up entities in various *jurisdictions* (offs
     frameborder="0">
 </iframe>
 
-We observe that many of these jurisdictions are located in *tax havens*, or a country with very low taxation rates for foreigners. Furthermore, the majority of countries that have entities in the papers come from a country with favorable business conditions (Hong Kong, Switzerland and Luxembourg) or fiscal paradises (Panama, Jersey). These countries are very business friendly: in other words they have extremely low tax rate and fot this reason they are called tax havens.
+We observe that many of these jurisdictions are located in *tax havens*, or a country with very low taxation rates for foreigners. Furthermore, the majority of countries that have entities in the papers come from a country with favorable business conditions (Hong Kong, Switzerland and Luxembourg) or fiscal paradises (Panama, Jersey). These countries are very business friendly: in other words, they have extremely low tax rate and fot this reason they are called tax havens.
 But why would entities already in tax havens go offshore if the business conditions from the country they come from are already optimal? And most importantly, what are the reasons pushing entities in non tax paradises countries to go offshore?
 
-It seems clear that corporate tax level is a strong determinant for entities to set up their business in tax havens. But is it also the reason for which entities from non tax havens set up holding in offshore jurisdictions?
+It seems clear that corporate tax level is a strong determinant for entities to set up their business in tax havens. But is it also the reason for which entities from non-tax havens set up holding in offshore jurisdictions?
 
 
 ## What drives entities to go offshore?
 
-It is probable that entities from all over the world are firstly influenced to go set their businesses already in countries which offer particularly good business conditions such as Switzlerand, Panama, the Channel Islands (Jersey and Guernsey), Luxemburg, the Cayman Islands, Lichteinstein, Singapore and Monaco, Isle of Man and Gibraltar. These countries are known for being small and very developed with high income per capita, but also to often be tax havens.
+It is probable that entities from all over the world are firstly influenced to go set their businesses already in countries which offer particularly good business conditions such as Switzerland, Panama, the Channel Islands (Jersey and Guernsey), Luxemburg, the Cayman Islands, Lichteinstein, Singapore and Monaco, Isle of Man and Gibraltar. These countries are known for being small and very developed with high income per capita, but also to often be tax havens.
 
 
 Hence, on the one hand it is crucial to understand what are these business conditions (economic and bureaucratic) that make this set of countries the optimum place to do business, but also to easily go offshore and on the other hand what are the economic and bureaucratic causes which influence entities in the other countries to go offshore.
 
-Firstly the corporate tax rate in small developed countries is plotted against the number of entities offshore per country in log scale.
-By observing the plot below some important considerations can be drawn; two set of countries can be identified: tax havens countries and small developed countries. Firstly the tax havens countries can be identified very easily since they have a high presence in the papers and at the same time they have really low tax rates. The rest of the countries are small developed usually European countries. The trend of non tax havens countries shows that high tax rate is not a factor pushing entities to go offshore; in fact the opposite could be true: there seems to be a negative exponential relationship between presence in panama papers and tax rates, but the two tail test p-value of such relationship seems to imply that no relationship exist between tax rate and number of entities in Panama Papers for small developed countries. However this relationship could imply the presence of an hidden covariate: high tax rate might be synonym of tighter control and regulations on entities going offshore, meaning that countries with tighter controls will naturally have a lower number of offshore companies.
+Firstly, the corporate tax rate in small developed countries is plotted against the number of entities offshore per country in log scale.
+By observing the plot below some important considerations can be drawn; two set of countries can be identified: tax havens countries and small developed countries. Firstly, the tax havens countries can be identified very easily since they have a high presence in the papers and at the same time they have really low tax rates. The rest of the countries are small developed usually European countries. The trend of non-tax havens countries shows that high tax rate is not a factor pushing entities to go offshore; in fact the opposite could be true: there seems to be a negative exponential relationship between presence in panama papers and tax rates, but the two tail test p-value of such relationship seems to imply that no relationship exist between tax rate and number of entities in Panama Papers for small developed countries. However, this relationship could imply the presence of an hidden covariate: high tax rate might be synonym of tighter control and regulations on entities going offshore, meaning that countries with tighter controls will naturally have a lower number of offshore companies.
 
-In addition the graph also seems to suggest that the reasons behind the presence of many companies offshore in tax havens is not only the low taxation levels: in fact corporate tax rate of tax havens countries is often comparable to that one of other small european countries. As a matter of fact tax havens countries offer entities favorable conditions to easily set companies offshore compared to other small countries.
+In addition, the graph also seems to suggest that the reasons behind the presence of many companies offshore in tax havens is not only the low taxation levels: in fact corporate tax rate of tax havens countries is often comparable to that one of other small European countries. As a matter of fact tax havens countries offer entities favorable conditions to easily set companies offshore compared to other small countries.
 
 
 <iframe src="/assets/taxratesmalldevelopedcountries.html"
@@ -83,7 +83,7 @@ In addition the graph also seems to suggest that the reasons behind the presence
 
 Now that we have understood what is the relationship between corporate tax rate and presence in Panama Papers for small developed countries, the graph of tax rate and presence in Panama Paper of developing countries is plotted.
 
-By observing this graphs a negative exponential relationship can be again observed further showing that for this category of countries tax rate is not a factor pushing entities to go offshore: actually the higher the tax rate the lower the number of companies offshore. Contrary to the little evidence found in small developed countries, developing countries show a very clear negative exponential relationship with a two tails p-value of 0.00143. This could be a further proof to the hypothesis that higher tax rates are correlated with higher regulations as shown in the graph for small developed countries; in fact in developing countries the bureaucratic machine and regulation could even disable further entities who are willing to go offshore.
+By observing this graphs, a negative exponential relationship can be again observed further showing that for this category of countries tax rate is not a factor pushing entities to go offshore: actually the higher the tax rate the lower the number of companies offshore. Contrary to the little evidence found in small developed countries, developing countries show a very clear negative exponential relationship with a two tails p-value of 0.00143. This could be a further proof to the hypothesis that higher tax rates are correlated with higher regulations as shown in the graph for small developed countries; in fact in developing countries the bureaucratic machine and regulation could even disable further entities who are willing to go offshore.
 
 <iframe src="/assets/developingcountries.html"
     sandbox="allow-same-origin allow-scripts"
@@ -107,7 +107,7 @@ The figure below shows a completely different picture, compared to the previous 
     frameborder="0">
 </iframe>
 
-Eventually after having analyzed the above set of countries, the global picture for developed countries has been drawn. Observing the figure, on a global scale it can be seen that there is no significant correlation between corporate tax rate and presence of offshore entities in the Panama Papers. However it is clear the a positive relationship between tax rate and number of offshore entities holds true for the major economies which are the biggest data points.
+Eventually after having analyzed the above set of countries, the global picture for developed countries has been drawn. Observing the figure, on a global scale it can be seen that there is no significant correlation between corporate tax rate and presence of offshore entities in the Panama Papers. However, it is clear the a positive relationship between tax rate and number of offshore entities holds true for the major economies which are the biggest data points.
 
 <iframe src="/assets/taxrate_developed.html"
     sandbox="allow-same-origin allow-scripts"
@@ -120,7 +120,7 @@ Eventually after having analyzed the above set of countries, the global picture 
 
 In conclusion it is clear that corporate tax is definitely a factor influencing entities to go offshore, but in different ways according to the set of countries considered. It seems that entities in the major economies are trying to escape high corporate taxation levels. While it seems that lower taxation levels in developing countries implies a higher number of companies set offshore. However it is hard to make inference statements since the correlations are often not strong enough and correlation doesn't imply causation.
 
- Hence corporate tax rate is not the only determinant for entities to go offshore: in fact it was also concluded that corporate tax rate could actually be a proxy variable for other covariates. For instance it is clear that tax havens present ideal conditions for entities to set up offshore companies: additional research should be performed in finding what are theses bureaucratic and economical factors, but the lack of transparency of these countries makes it extremely to find useful data.
+ Hence corporate tax rate is not the only determinant for entities to go offshore: in fact it was also concluded that corporate tax rate could actually be a proxy variable for other covariates. For instance it is clear that tax havens present ideal conditions for entities to set up offshore companies: additional research should be performed in finding what are these bureaucratic and economic factors, but the lack of transparency of these countries makes it extremely to find useful data.
 
 ## What consequences do companies offshore have on their home country?
 
