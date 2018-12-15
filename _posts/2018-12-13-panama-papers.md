@@ -152,7 +152,7 @@ The exploration above has provided numerous insights not only on the causes infl
 
 <iframe src="/img/cartoon.jpg"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="130%"
     height="650"
     scrolling="no"
     seamless="seamless"
